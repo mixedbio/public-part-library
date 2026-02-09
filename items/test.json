@@ -1,0 +1,13 @@
+{
+  "identifier": "test",
+  "name": "",
+  "description": "",
+  "geometry": "LINEAR",
+  "roles": null,
+  "type": "DnaItem",
+  "source": "mixedbio-public-part-library",
+  "created_at": "2026-02-08T22:23:34.539305-08:00",
+  "updated_at": "2026-02-08T22:23:34.539305-08:00",
+  "sequence": "ATGCA",
+  "sequence_features": []
+}
